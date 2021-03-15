@@ -1,0 +1,8 @@
+1.  Doorgaans word een include gebruikt om een blok aan html in een ander bestand te 'includen', 
+    waar require word gebruikt daar waar stukken code op verschillende pagina's gerund moet worden, 
+    zoals een for loop. Programmeer techinsch is het verschil dat een require een error roept als het 
+    inladen niet succesvol is, waar een include dit niet doet.
+2.  Zoals hierboven is uitgelegt, daar waar stukken code moeten worden ingeladen
+3.  Daar waar een heel blok HTML code direct het bestand ingezet moet worden
+4.  Zodat je de code maar 1 keer hoeft te schrijven en later ook aanpassen, terwijl je het op meerdere
+    plekken kan gebruiken.
